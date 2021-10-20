@@ -1,0 +1,32 @@
+.cc{
+    background: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4); 
+    margin-bottom:2px ;
+}
+
+.big-button{
+  color:white;
+  background:black;
+  border-radius: 5px;
+  padding: 0;  
+}
+.r1 >P{
+    text-align: center;
+    font-size: 25px;
+}
+.bt{
+    margin: 10px;
+}
+
+.rr{
+    height: 100px;
+    border: solid black;
+    margin: 5px;
+}
+
+.nav{
+    margin: 10px
+}
+
+.bbb{
+    padding: 3px
+}
